@@ -1,3 +1,3 @@
 # Meningsbaerende
-Windows 10 Pro Version 21H2
-JonAarebakk
+# Windows 10 Pro Version 21H2
+# JonAarebakk
